@@ -167,6 +167,11 @@ const App: React.FC = () => {
                     </div>
                 </div>
             </main>
+            <footer className="mt-12 pb-8 text-center">
+                <p className="text-xs text-gray-400 font-medium tracking-wider">
+                    Created by <span className="text-gray-500">i-Scream</span> & <span className="text-gray-500">정윤아</span>
+                </p>
+            </footer>
         </div>
     );
 };
